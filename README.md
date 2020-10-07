@@ -10,7 +10,7 @@ O projeto foi utilizando o React  para o desenvolvimento de aplicações web rea
 
 Um aplicativo web com funcionalidades parecidas de redes sociais como o Instagram.
 
-Curso praticamente tudo será criado do zero, sem a dependência de pacotes externos, muito uso de CSS puro, animações,uso de FETCH API, uso de Hooks como :
+Curso praticamente tudo criado do zero, sem a dependência de pacotes externos, muito uso de CSS puro, animações,uso de FETCH API, uso de Hooks como :
 - UseNavigate
 - matchMedia
 - useContext
