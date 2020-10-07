@@ -13,9 +13,13 @@ export const UserStatsGraphs = ({data}) => {
         y: Number(item.acessos)
       };
     });
+
+    if(data.length){
     setTotal(
       data.map(({ acessos }) => Number(acessos)).reduce((a, b) => a + b),
     );
+  }
+
     setGraph(graphData);
    },[data])
 
